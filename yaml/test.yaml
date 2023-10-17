@@ -1,0 +1,22 @@
+Key: D
+Octave: 3
+Mode: Major
+TimeSignature: 4/4
+Tempo: 110
+Sections:
+  Verse:
+    - 1 x 2
+    - 5 x 2
+    - 2 x 2
+    - 1 x 2
+  Chorus:
+    - 6 x 2
+    - 4 x 2
+    - 5 x 2
+    - 1 x 2
+Format:
+  - Verse
+  - Chorus
+  - Verse
+  - Chorus
+  - Chorus

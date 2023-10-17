@@ -1,0 +1,39 @@
+Key: C
+Octave: 3 # [default A2/C3, C4 = middle C]
+Mode: Ionian
+TimeSignature: 4/4
+Tempo: 110
+Sections:
+  # chords in scale degrees auto-map to Mode
+  # chord symbols to override
+  Intro:
+    - 1 x 2
+    - 5 x 2
+    - 2 x 2
+    - 1 x 2
+  Verse:
+  Chorus:
+  ChorusAlt:
+  Bridge:
+  Outro:
+Format:
+  - Intro
+  - Verse
+  - Chorus
+  - Verse
+  - Chorus
+  - Bridge
+  - Verse
+  - Chorus
+  - ChorusAlt
+  - Outro
+
+# Chord Symbols                      *dim
+# Ionian:    I   ii  iii IV  V   vi  vii
+# Dorian:        i   ii  III IV  v   vi   VII
+# Phrygian:          i   II  III iv  v    VI  vii
+# Lydian:                I   II  iii iv   V   vi  vii
+# Mixolydian:                I   ii  iii  IV  v   vi  VII
+# Aeolian:                       i   ii  III  iv  v   VI  VII
+# Locrian:                           i   II   iii iv  V   VI  vii
+# IMaj7 IVMaj7 V7
